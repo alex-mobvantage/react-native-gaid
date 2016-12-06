@@ -1,0 +1,13 @@
+node_modules
+.DS_Store
+android/build
+android/react-native-gaid.iml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/react-native-device-info.iml
+.idea/vcs.xml
+.idea/workspace.xml
