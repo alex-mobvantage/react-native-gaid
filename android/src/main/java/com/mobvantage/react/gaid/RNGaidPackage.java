@@ -23,7 +23,7 @@ public class RNGaidPackage implements ReactPackage {
         return modules;
     }
 
-    @Override
+    // Deprecated RN 0.47 (based on neruchev pull request on main repo)
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
