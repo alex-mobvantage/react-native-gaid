@@ -19,6 +19,5 @@ repositories {
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
     compile 'com.facebook.react:react-native:+'
-    compile 'com.google.android.gms:play-services-ads:+'
+    compile 'com.google.android.gms:play-services-ads:10.2.6'
 }
-
