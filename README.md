@@ -31,8 +31,8 @@ rnpm link react-native-gaid
 ```diff
 dependencies {
     ...
-    compile "com.facebook.react:react-native:+"  // From node_modules
-+   compile project(':react-native-gaid')
+    implementation "com.facebook.react:react-native:+"  // From node_modules
++   implementation project(':react-native-gaid')
 }
 ```
 
